@@ -8,7 +8,7 @@
 
 <body>
 
-    <h1>Jenkins CI/CD Demo</h1>
+    <h1>Jenkins CI/CD Demo - Build 2</h1>
 
     <h2>Java Web Application Deployed Successfully!</h2>
 
